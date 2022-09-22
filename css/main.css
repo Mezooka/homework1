@@ -68,7 +68,7 @@ h2 {
     background-color: #FF6861;
     border-radius: 100px;
     display: block;
-    width: 227px;
+    width: fit-content;
     text-align: center;
     color: #fff;
     text-decoration: none;
